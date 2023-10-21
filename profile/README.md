@@ -1,6 +1,6 @@
 ## Hi there 👋, Welcome to the Prolobjectlink Project
 
-![Banner with illustration of Prolobjectlink, the open source project](/images/org_banner.png)
+![Banner with illustration of Prolobjectlink, the open source project](/images/org_banner.jpg)
 
 Prolobjectlink Project an open source initiative for build logic based applications using Prolog like fundamental Logic Programming Language in the persistence layer and application programming.
 
