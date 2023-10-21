@@ -10,7 +10,7 @@ We are always happy to have contributions to the project: source code, documenta
 
 
 
-To find out more about QuestDB, visit our [about us page](https://github.com/prolobjectlink).
+To find out more about Prolobjectlink, visit our [about us page](https://github.com/prolobjectlink).
 
 <!--
 
